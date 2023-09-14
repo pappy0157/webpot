@@ -1,3 +1,3 @@
 # webpot
 webpot
-https://www.tsujigawa.com/
+<a href="https://www.tsujigawa.com/" target="_blank">https://www.tsujigawa.com/</a>
